@@ -8,3 +8,4 @@ https://www.codingame.com/servlet/mlinkservlet?lmid=184888324rhEibu&ltpl=2&link=
 2-cheaker
 3-clean the code
 4-norminette
+5-dont put last 3 or 5 index from a to b and sorted it in a
