@@ -13,3 +13,6 @@ https://www.codingame.com/servlet/mlinkservlet?lmid=184888324rhEibu&ltpl=2&link=
 
 
 https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
+
+
+ valgrind --tool=helgrind ./philo 2 40000 300 300 5 2>err.log
