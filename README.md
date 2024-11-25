@@ -17,4 +17,4 @@ https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
 
  valgrind --tool=helgrind ./philo 2 40000 300 300 5 2>err.log
 
- python3 -m formatter_42 *c
+ python3 -m c_formatter_42 *c
